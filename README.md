@@ -18,7 +18,7 @@ Master’s in information systems/Business Analytics with 5 years of experience 
 ---
 
 ## Work Experience
-**Business Intelligence Analyst (Oil and Gas Industry Norway) <p align="right">_Nov 2018 - Dec 2021_</p>**
+**Business Intelligence Analyst (Oil and Gas Industry Norway) --:_Nov 2018 - Dec 2021_**
 <br>**Capgemini, India**
 - Analyzed large amounts of Microsoft SQL database to provide actionable insights that increased revenue by 15%
 - Carried out in-depth research to suggest best practices for the automation of regular tasks
@@ -48,7 +48,7 @@ Master’s in information systems/Business Analytics with 5 years of experience 
 - Implemented robust, reliable, and custom reporting and visualization using BI tools such as Tableau and MS Excel
 - Collaborated with senior management, department leaders, and other stakeholders to work on reporting requirements
 
-**Graduate Research Assistant, UTA <p align="right">Jun 2022 - Aug 2022</p>**
+**Graduate Research Assistant, UTA <div dir="rtl">Jun 2022 - Aug 2022</div>**
 <br>**Arlington, Texas**
 - Implemented and examined customized surveys, resulting in a high-level summary of patterns, trends, and findings
 - Generated compelling storytelling ideas for UTA Talent Pipeline to administer the impact on students and employers
@@ -56,7 +56,7 @@ Master’s in information systems/Business Analytics with 5 years of experience 
 ---
 
 ### Academic Projects
-**SAS – Fraud Analyzer – Group Project <p align="right">_May 2022_</p>**
+**SAS – Fraud Analyzer – Group Project <div alignn="right">_May 2022_</div>**
 - Performed data cleaning and detected outliers while building and defining the business rules to validate our model
 - Explored multiple machine learning methods such as regression, classification, and clustering, which helped identify fraud
 
